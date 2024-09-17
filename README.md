@@ -11,11 +11,11 @@ Jetpack Adventures is perfect for fans of fast-paced games that require skill.
 
 Features:
 
--The player can control the jetpack to dodge obstacles and collect coins
--The further you get the difficulty increases
--Highscore system to save the best results
--Runs on MS Windows 11
--Supports keyboard
+- The player can control the jetpack to dodge obstacles and collect coins
+- The further you get the difficulty increases
+- Highscore system to save the best results
+- Runs on MS Windows 11
+- Supports keyboard
 
 
 
