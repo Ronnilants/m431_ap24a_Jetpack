@@ -29,10 +29,15 @@ Features:
 # Documentation
 
 - the whole documentation is here
-    -inform
-    -plan
-    -decide
-    -realize
+    - inform
+    - plan
+    - decide
+    - realize
+    - design
+    - setup
+    - implement
+    - control
+    - assess
         
 
 
