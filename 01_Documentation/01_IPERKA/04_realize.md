@@ -101,7 +101,7 @@
 
   ![overview of Unity](../../01_Documentation/02_Resources/images/realize-project-configuration-unity.png)
 
-  # install Aseprite
+  # Install Aseprite
   - installed it from steam
   - used it to design the characters and obstacles
   - costs CHF 19.50 but was bought for private use before the project
