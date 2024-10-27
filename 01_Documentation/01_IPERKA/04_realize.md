@@ -72,6 +72,24 @@
 # Install Github Desktop
 - installed Github Desktop so we can commit and push our project from Unity
 - cloned the repository from github into my desktop with Github Desktop
+
+## How to clone repository with Github Desktop
+
+- overview of Github Desktop
+
+   ![overview Github Desktop](../../01_Documentation/02_Resources/images/realize-view-github-desktop.png)
+
+- clone the repository
+
+   ![clone repository Github Desktop](../../01_Documentation/02_Resources/images/realize-clone-repository-github-desktop.png)
+
+  # install Unity
+  - installed Unity because its the game engine that we use
+  - created the project
+
+  ## How to create a project in Unity
+  
+
   
 
   
