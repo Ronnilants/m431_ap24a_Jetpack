@@ -108,8 +108,21 @@
 
   ## How to create and configure a file in aseprite
 
-  
+  - aseprite in the steam library
+ 
+     ![aseprite in the steam library](../../01_Documentation/02_Resources/images/realize-overview-steam-aseprite.png)
 
+  - overview of aseprite
+ 
+     ![aseprite overview ](../../01_Documentation/02_Resources/images/realize-overview-aseprite.png)
+
+  - create the file
+    
+     ![create file in aseprite](../../01_Documentation/02_Resources/images/realize-create-file-aseprite.png)
+
+- configure the file (size 128x128 pixels, color mode AGEA , background transparent)
+
+     ![configuration of the file](../../01_Documentation/02_Resources/images/realize-configure-file-aseprite.png)
   
 
   
