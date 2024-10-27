@@ -29,10 +29,13 @@ Features:
 # Documentation
 
 - the whole documentation is here
-    - inform
+    - [inform] (01_Documentation/01_IPERKA/01_Inform.md)
     - plan
     - decide
     - realize
+      - design
+      - setup
+      - implement
     - design
     - setup
     - implement
