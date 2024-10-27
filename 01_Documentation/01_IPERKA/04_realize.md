@@ -88,6 +88,26 @@
   - created the project
 
   ## How to create a project in Unity
+
+  - overview of Unity, create project
+
+     ![overview of Unity](../../01_Documentation/02_Resources/images/realize-overview-unity.png)
+
+  - make it a 2D project
+
+    ![make 2D project in Unity](../../01_Documentation/02_Resources/images/realize-create-project-window.png)
+
+  - remaining configuration of the project 
+
+  ![overview of Unity](../../01_Documentation/02_Resources/images/realize-project-configuration-unity.png)
+
+  # install Aseprite
+  - installed it from steam
+  - used it to design the characters and obstacles
+  - costs CHF 19.50 but was bought for private use before the project
+
+  ## How to create and configure a file in aseprite
+
   
 
   
