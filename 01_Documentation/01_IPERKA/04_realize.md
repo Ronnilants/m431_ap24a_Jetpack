@@ -83,7 +83,7 @@
 
    ![clone repository Github Desktop](../../01_Documentation/02_Resources/images/realize-clone-repository-github-desktop.png)
 
-  # install Unity
+  # Install Unity
   - installed Unity because its the game engine that we use
   - created the project
 
