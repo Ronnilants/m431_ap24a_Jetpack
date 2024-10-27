@@ -123,7 +123,8 @@
 - configure the file (size 128x128 pixels, color mode AGEA , background transparent)
 
      ![configuration of the file](../../01_Documentation/02_Resources/images/realize-configure-file-aseprite.png)
-  
+
+  # Implement
 
   
 
