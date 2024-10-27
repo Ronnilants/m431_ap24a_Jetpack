@@ -29,7 +29,7 @@ Features:
 # Documentation
 
 - the whole documentation is here
-    - [inform] (01_Documentation/01_IPERKA/01_Inform.md)
+    - inform
     - plan
     - decide
     - realize
