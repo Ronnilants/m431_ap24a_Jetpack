@@ -18,6 +18,14 @@
 - all lowercase
 - no spaces
 
+# Github directory structure
+
+- made a simple sketch of how the directory should look like
+
+  ![Github directory structure image](../../01_Documentation/02_Resources/images/realize-sketch-directories.jpg)
+
+
+
 
 
 
