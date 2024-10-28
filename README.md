@@ -7,7 +7,7 @@ Welcome to our 2D Jetpack Project programmed with unity
 ### product description
 
 Jetpack Adventures is an exciting 2D endless runner game where the player controls a character equipped with a jetpack.
-Jetpack Adventures is perfect for fans of fast-paced.
+Jetpack Adventures is perfect for fans of fast-paced games.
 
 story: 
 This game is about a man named Mr.Astronaut. Countless meteorites fall into the earth's atmosphere and Mr.astronaut has to avoid them with his jetpack, otherwise he will die.
