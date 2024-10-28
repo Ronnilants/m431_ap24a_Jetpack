@@ -6,7 +6,6 @@
 1. Define the naming conventions
 1. Design the Github directory structure
 1. Design the game 
-1. Design testcases
 
 # Naming conventions
 
@@ -55,8 +54,6 @@
 - final version of the game-design
 
     ![final game](../../01_Documentation/02_Resources/images/realize-final-game.png)
-
-  # Design testcases
 
   # Setup
 
