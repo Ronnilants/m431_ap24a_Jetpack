@@ -129,9 +129,21 @@
 
 - Implement the background
 - Implement the character
-  - Scripts
+  - JetpackController
 - Implement the obstacles
-  - Scripts
+  - ObstacleController
+  - ObstacleSpawner
+
+  # Implement the background
+
+
+  # JetpackController
+
+  # Implement the obstacles
+
+  # ObstacleController
+
+  # ObstacleSpawner
   
 
 
