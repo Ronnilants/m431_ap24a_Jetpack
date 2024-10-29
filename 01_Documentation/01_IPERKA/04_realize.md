@@ -135,11 +135,9 @@
   - ObstacleSpawner
 
   # Implement the background
-  
 - add the file in Unity so I can use it in the game by draging the file in to the sprites folder
-  
-- add the file in the game by draging the file to the scene 
-
+- add the file in the game by draging the file to the scene
+  ![background](../../02_Jetpack/Assets/Sprites/background.jpg)
   # JetpackController
 
   # Implement the obstacles
