@@ -128,6 +128,7 @@
   # Order
 
 - Implement the background
+- Create scripts
 - Implement the character
   - JetpackController
 - Implement the obstacles
@@ -136,17 +137,32 @@
 
   # Implement the background
 - add the file in Unity so I can use it in the game by draging the file in to the sprites folder
+ ![background](../../02_Jetpack/Assets/Sprites/background.jpg)
 - add the file in the game by draging the file to the scene
-  ![background](../../02_Jetpack/Assets/Sprites/background.jpg)
-  # JetpackController
-
+   ![scene in unity](../../01_Documentation/02_Resources/images/realize-scene-unity.png)
+  - added the background because it schould give the user a better understanding of the game
+# Create scripts
+1. created the scripts folder (same way as C# scripts)
+2. pressed on the "+" button
+3. chose C# script
+4. named it
+   
+  # Implement the character
+  - add the file like the backround to the unity by draging the file to the main camera
+  - add the file in the game by draging the file to the scene 
+  ## JetpackController
+- this script is used for the movement of the character and the control of the character
+- add the script to the character by draging it to the JetpackRider
   # Implement the obstacles
-
-  # ObstacleController
-
-  # ObstacleSpawner
-  
-
+- two files, ObstacleBottom and ObstacleTop
+- the obstacles had to be prefabs so that when I spawn and delete them while playing theay still are saved
+- made them prefabs by creating a prefabs folder and adding them to the folder, by draging the files in to the folder
+  ## ObstacleController
+- this script is used for the movement of the obstacles
+- added the script by draging it to the files
+  ## ObstacleSpawner
+  - this script is used to spawn obstacles at random height (x) positions so it doesnt get boring for the player
+  - added the file by draging it to the scene and by choosing ObstacleBottom and ObstacleTop as game objects
 
 
 
