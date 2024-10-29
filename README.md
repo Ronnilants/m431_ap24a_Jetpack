@@ -12,7 +12,7 @@ Jetpack Adventures is perfect for fans of fast-paced games.
 story: 
 This game is about a man named Mr.Astronaut. Countless meteorites fall into the earth's atmosphere and Mr.astronaut has to avoid them with his jetpack, otherwise he will die.
 
-Features:
+### Features:
 
 - The player can control the jetpack to dodge obstacles 
 - Runs on MS Windows 11
