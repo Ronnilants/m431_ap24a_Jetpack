@@ -11,7 +11,7 @@
 - How to create a basic game in Unity
     - We learned how to make a basic game in Unity, by creating this product and watching tutorials about C# and Unity. We think this goal was achieved because we learned how to make a basci game even if our product isnt really good
 - the game has to work
-    - The game works but not because we are that good at working with unity and coding in C# but, because cutted most of the original features from the game. The goal wasnt achieved but we know what our mistake was and what we need to change fot the future
+    - The game works but not because we are that good at working with unity and coding in C# but, because we cutted most of the original features from the game. The goal wasnt achieved but we know what our mistake was and what we need to change fot the future
 ## Evaluate the plan
 - In our resource plan we had 104 available hours
 - In our estimated time consumption in the task list we needed 79 hours
