@@ -12,7 +12,7 @@ Jetpack Adventures is perfect for fans of fast-paced games.
 story: 
 This game is about a man named Mr.Astronaut. Countless meteorites fall into the earth's atmosphere and Mr.astronaut has to avoid them with his jetpack, otherwise he will die.
 
-Features:
+### Features:
 
 - The player can control the jetpack to dodge obstacles 
 - Runs on MS Windows 11
@@ -20,24 +20,36 @@ Features:
 
 ### Source Code
 
-- The Source code is here
+- [JetpackController](https://github.com/Ronnilants/m431_ap24a_Jetpack/blob/main/02_Jetpack/Assets/scripts/JetpackController.cs)
+- [ObstacleController](https://github.com/Ronnilants/m431_ap24a_Jetpack/blob/main/02_Jetpack/Assets/scripts/ObstacleController.cs)
+- [ObstacleSpawner](https://github.com/Ronnilants/m431_ap24a_Jetpack/blob/main/02_Jetpack/Assets/scripts/ObstacleSpawner.cs)
 
-### Download
+### Video 
 
-- The product can be downloaded here
+- Video of the product
+- [Download video](https://github.com/Ronnilants/m431_ap24a_Jetpack/blob/main/01_Documentation/02_Resources/video/jetpack-gameplay.mp4)
+
+  
+
+https://github.com/user-attachments/assets/fe10965f-0647-4f72-83a0-9e5ac5da8bff
+
+
 
 # Documentation
 
-- the whole documentation is here
-    - inform
-    - plan
-    - decide
-    - realize
-      - design
-      - setup
-      - implement
-    - control
-    - assess
+- The whole documentation is here
+    - [Inform](https://github.com/Ronnilants/m431_ap24a_Jetpack/blob/main/01_Documentation/01_IPERKA/01_Inform.md)
+    - [Plan](https://github.com/Ronnilants/m431_ap24a_Jetpack/blob/main/01_Documentation/01_IPERKA/02_plan.md)
+    - [Decide](https://github.com/Ronnilants/m431_ap24a_Jetpack/blob/main/01_Documentation/01_IPERKA/03_decide.md)
+    - [Realize](https://github.com/Ronnilants/m431_ap24a_Jetpack/blob/main/01_Documentation/01_IPERKA/04_realize.md)
+      - [Design](https://github.com/Ronnilants/m431_ap24a_Jetpack/blob/main/01_Documentation/01_IPERKA/04_realize.md#design)
+      - [Setup](https://github.com/Ronnilants/m431_ap24a_Jetpack/blob/main/01_Documentation/01_IPERKA/04_realize.md#setup)
+      - [Implement](https://github.com/Ronnilants/m431_ap24a_Jetpack/blob/main/01_Documentation/01_IPERKA/04_realize.md#implement)
+    - [Control](https://github.com/Ronnilants/m431_ap24a_Jetpack/blob/main/01_Documentation/01_IPERKA/05_control.md)
+    - [Assess](https://github.com/Ronnilants/m431_ap24a_Jetpack/blob/main/01_Documentation/01_IPERKA/06_assess.md)
+
+
+  
         
 
 
