@@ -27,7 +27,7 @@ Features:
 ### Video 
 
 - Video of the product
-  [Gameplay]()
+  [Gameplay](https://github.com/Ronnilants/m431_ap24a_Jetpack/blob/main/01_Documentation/02_Resources/video/jetpack-gameplay.mp4)
 
 # Documentation
 
