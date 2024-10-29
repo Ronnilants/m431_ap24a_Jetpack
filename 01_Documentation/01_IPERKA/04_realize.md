@@ -144,12 +144,14 @@
 # Create scripts
 1. created the scripts folder (same way as C# scripts)
 2. pressed on the "+" button
+  - ![script folder](../../01_Documentation/02_Resources/images/realize-scripts-folder.png)
 3. chose C# script
+ -  ![create script](../../01_Documentation/02_Resources/images/realize-create-script.png)
 4. named it
-   
+  - ![script folder](../../01_Documentation/02_Resources/images/realize-name-script.png)
   # Implement the character
-  - add the file like the backround to the unity by draging the file to the main camera
-  - add the file in the game by draging the file to the scene 
+  - add the file like the backround to the unity by draging the file to the sprites folder
+  - add the file (JetpackRider) in the game by draging the file to the main camera
   ## JetpackController
 - this script is used for the movement of the character and the control of the character
 - add the script to the character by draging it to the JetpackRider
