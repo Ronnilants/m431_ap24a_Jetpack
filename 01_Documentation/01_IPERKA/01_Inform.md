@@ -17,3 +17,15 @@ Knowledge:
 Tools required:
 
 - We had to identify the software and tools necessary for developing the game (or find out where to download them).
+
+# Gathering Information
+Requirements for the Product
+- There are 2 sources for requirements, one is the teacher (customer) and the other is from myself.
+- Thinking about how I wanted my app to behave, I wrote a list of requirements, I then:
+- Related them to either the app or the database.
+- Wrote down from whom these requirements were coming from.
+  ![image](https://github.com/user-attachments/assets/4b9ed1e9-e72e-4f30-857d-705491ce6fb1)
+
+  # Requirments for the Documentation
+  ![image](https://github.com/user-attachments/assets/f6c5466e-e99f-4bdc-aa54-bf86156266e4)
+
