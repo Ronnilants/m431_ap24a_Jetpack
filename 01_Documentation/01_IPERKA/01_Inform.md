@@ -53,13 +53,13 @@ Requirements for the Product
    
   # Tools we needed
   - Untiy
-    To make the code for the 2D Jetpack game that we will prasentate to the class and Mr.Devlin.
+    - To make the code for the 2D Jetpack game that we will prasentate to the class and Mr.Devlin.
   - Youtube
-    To watch all the tutorials to understand the code and the first step for the 2D game.
+    - To watch all the tutorials to understand the code and the first step for the 2D game.
   - Google
-    To check basic questiens for the code that we use for the 2D game.
+    - To check basic questiens for the code that we use for the 2D game.
   - Github
-    To do the documentation for the 2D game.
+    - To do the documentation for the 2D game.
     
   
   
