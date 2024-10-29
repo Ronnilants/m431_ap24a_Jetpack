@@ -36,9 +36,6 @@ Features:
       - design
       - setup
       - implement
-    - design
-    - setup
-    - implement
     - control
     - assess
         
