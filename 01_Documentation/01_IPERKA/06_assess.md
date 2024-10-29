@@ -5,7 +5,7 @@
 - IPERKA: We understand now why we need the IPERKA and how it should be structured
 ## What could be improved 
 - Teamwork: We didnt work together as a real team and had different opinions about what we wanted
-- Code review: because we didnt have done the code earlier, we had to cut many things of the product
+- Product: because we didnt have done the code earlier, we had to cut many things of the product
 - plan: Our plan was good but we didnt keep up with it
 ## Were the goals achieved
 - How to create a basic game in Unity
