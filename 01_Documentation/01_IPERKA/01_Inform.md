@@ -57,6 +57,7 @@ Requirements for the Product
   - Youtube
     To watch all the tutorials to understand the code and the first step for the 2D game.
   - Google
-    To check basic questiens for the code 
+    To check basic questiens for the code that we use for the 2D game
+  
   
        
