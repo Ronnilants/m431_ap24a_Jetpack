@@ -36,4 +36,4 @@
 - End the Tasklist at Week 4.
 - To finish the hole IPERKA at Week 8.
 - Finish the basic game at Week 9 and make the documentation about it how we did it.
-- Make the powerpoint prasentation for the game
+- Make the powerpoint presentation for the game
