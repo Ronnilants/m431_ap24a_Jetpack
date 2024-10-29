@@ -125,6 +125,13 @@
 
   # Implement
 
+  # Order
+
+- Implement the background
+- Implement the character
+  - Scripts
+- Implement the obstacles
+  - Scripts
   
 
 
