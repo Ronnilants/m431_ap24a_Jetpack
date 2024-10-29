@@ -40,3 +40,15 @@ Requirements for the Product
      - It has to have a start and pause button
      - the background has to be seen 
 
+  # Tutorials
+  - Tutorial how to use Unity
+     - watched on Week 3
+     - from: https://www.youtube.com/watch?v=XtQMytORBmM
+  - Tutorial how to make a 2D Game on Unity
+     - watched on Week 4
+     - from: https://www.youtube.com/watch?v=u-g7s3HVh6o&t=293s
+  - How to understand Unity codes for 2D game
+     - watched on Week 4
+     - from: https://www.instructables.com/Make-A-2D-Infinite-Runner-with-Unity/
+  
+       
