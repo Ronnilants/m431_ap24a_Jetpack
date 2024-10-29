@@ -29,6 +29,12 @@ Features:
 - Video of the product
 - [Download video](https://github.com/Ronnilants/m431_ap24a_Jetpack/blob/main/01_Documentation/02_Resources/video/jetpack-gameplay.mp4)
 
+  
+
+https://github.com/user-attachments/assets/fe10965f-0647-4f72-83a0-9e5ac5da8bff
+
+
+
 # Documentation
 
 - The whole documentation is here
