@@ -2,6 +2,8 @@
 - Mindmap
 - Brainstorm/Steps
 - Githup Tasklists
+- Resources
+- Milestones
 
 # Mindmap
 - At first we did a Mindmap and thougt about, what we need for the game
@@ -15,7 +17,7 @@
 - We planed these things to creat the game
   ![image](https://github.com/user-attachments/assets/089c8c99-b6fd-4c87-88d8-516f8438d750)
 
-# Githup Tasklist
+# Github Tasklist
 - We did the tasklists on Githup
 - We have 30 tasks
 - We have a start and finish list
