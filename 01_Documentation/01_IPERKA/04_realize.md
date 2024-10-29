@@ -62,11 +62,11 @@
 1. Install Github Desktop
 1. install Unity
 1. install Aseprite
+2. Donwloads
 
 # Create Gtihub directory structure
 
-- created the directory structure in the Website itself
-
+- created the directory structure in the Website itself with the sketch shown in the design part
 
 # Install Github Desktop
 - installed Github Desktop so we can commit and push our project from Unity
@@ -123,6 +123,11 @@
 
      ![configuration of the file](../../01_Documentation/02_Resources/images/realize-configure-file-aseprite.png)
 
+  # Downloads
+  - [Unity](https://unity.com/de/download)
+  - [Github Desktop](https://desktop.github.com/download/)
+  - [Aseprite](https://www.aseprite.org/download/)
+
   # Implement
 
   # Order
@@ -148,24 +153,29 @@
 3. chose C# script
  -  ![create script](../../01_Documentation/02_Resources/images/realize-create-script.png)
 4. named it
-  - ![script folder](../../01_Documentation/02_Resources/images/realize-name-script.png)
+  - ![name scirpt](../../01_Documentation/02_Resources/images/realize-name-script.png)
+    
   # Implement the character
   - add the file like the backround to the unity by draging the file to the sprites folder
   - add the file (JetpackRider) in the game by draging the file to the main camera
+  - ![main camera](../../01_Documentation/02_Resources/images/realize-main-camera.png)
   ## JetpackController
 - this script is used for the movement of the character and the control of the character
 - add the script to the character by draging it to the JetpackRider
+  ![script jetpackcontroller](../../01_Documentation/02_Resources/images/realize-script-jetpackcontroller.png)
   # Implement the obstacles
 - two files, ObstacleBottom and ObstacleTop
 - the obstacles had to be prefabs so that when I spawn and delete them while playing theay still are saved
 - made them prefabs by creating a prefabs folder and adding them to the folder, by draging the files in to the folder
+  ![script folder](../../01_Documentation/02_Resources/images/realize-prefab.png)
   ## ObstacleController
 - this script is used for the movement of the obstacles
 - added the script by draging it to the files
+  ![script folder](../../01_Documentation/02_Resources/images/realize-script-obstaclecontroller.png)
   ## ObstacleSpawner
   - this script is used to spawn obstacles at random height (x) positions so it doesnt get boring for the player
   - added the file by draging it to the scene and by choosing ObstacleBottom and ObstacleTop as game objects
-
+ ![script folder](../../01_Documentation/02_Resources/images/realize-script-obstaclespawner.png)
 
 
 
