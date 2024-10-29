@@ -21,3 +21,11 @@
 - We have a start and finish list
 - At the end we finished with Todo
 - ![image](https://github.com/user-attachments/assets/265930ed-4116-475f-b83e-e2923f3dbc19)
+
+# Resource plan
+- The document shows a schedule for August to November, divided into Morning, Afternoon, and Evening shifts.
+- Hours are logged daily with a total of 104 hours displayed.
+- Specific dates are marked in blue, red, and yellow, indicating milestones such as deadlines and the end of a module.
+- The schedule also includes a daily summary of hours worked in each shift.
+  ![image](https://github.com/user-attachments/assets/6048c19d-cfc4-4e1b-8202-58a25c368a27)
+
