@@ -32,5 +32,11 @@ Requirements for the Product
   # Goal
   - How to create a basic game on Unity
      - lern code laguage
-     - understand the codes 
+     - understand the codes
+  - The game has to work
+     - the animations have to work
+     - You can dodge the object without falling down
+     - every time you hit a object you will fall down
+     - It has to have a start and pause button
+     - the background has to be seen 
 
