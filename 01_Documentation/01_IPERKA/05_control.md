@@ -35,6 +35,8 @@
 # Requirement and Docoumentation review
 - We looked over the documentation requirements
 - We saw what was done and if we had to implement something that was missing
+
+   ![requirements](../../01_Documentation/02_Resources/images/control-requirements.png)
   
 # Test summary
 
