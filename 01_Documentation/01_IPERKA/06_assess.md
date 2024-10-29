@@ -15,6 +15,6 @@
 ## Evaluate the plan
 - In our resource plan we had 104 available hours
 - In our estimated time consumption in the task list we needed 79 hours
-- Our personal goar was to need about 80 hours of those 104 available hours
+- Our personal goal was to need about 80 hours of those 104 available hours
 - We actually used about 40 hours for everything, from learning Unity to writing the assess part
-- Conclusion: We should have put alot more hours into the project and cooperate more with eachother. If we had put all the hours into it, our product would have been significantly better.
+- Conclusion: We should have put alot more hours into the project and cooperate more with eachother. If we had put all the hours into it, our product would have been significantly better and our documentation more detailed.
