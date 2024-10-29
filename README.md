@@ -27,10 +27,11 @@ Features:
 ### Video 
 
 - Video of the product
+  [Gameplay]()
 
 # Documentation
 
-- the whole documentation is here
+- The whole documentation is here
     - [Inform](https://github.com/Ronnilants/m431_ap24a_Jetpack/blob/main/01_Documentation/01_IPERKA/01_Inform.md)
     - [Plan](https://github.com/Ronnilants/m431_ap24a_Jetpack/blob/main/01_Documentation/01_IPERKA/02_plan.md)
     - [Decide](https://github.com/Ronnilants/m431_ap24a_Jetpack/blob/main/01_Documentation/01_IPERKA/03_decide.md)
