@@ -50,5 +50,13 @@ Requirements for the Product
   - How to understand Unity codes for 2D game
      - watched on Week 4
      - from: https://www.instructables.com/Make-A-2D-Infinite-Runner-with-Unity/
+   
+  # Tools we needed
+  - Untiy
+    To make the code for the 2D Jetpack game that we will prasentate to the class and Mr.Devlin
+  - Youtube
+    To watch all the tutorials to understand the code and the first step for the 2D game.
+  - Google
+    To check basic questiens for the code 
   
        
