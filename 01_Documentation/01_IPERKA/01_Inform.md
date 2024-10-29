@@ -29,3 +29,8 @@ Requirements for the Product
   # Requirments for the Documentation
   ![image](https://github.com/user-attachments/assets/f6c5466e-e99f-4bdc-aa54-bf86156266e4)
 
+  # Goal
+  - How to create a basic game on Unity
+     - lern code laguage
+     - understand the codes 
+
