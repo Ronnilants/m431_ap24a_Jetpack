@@ -29,3 +29,9 @@
 - The schedule also includes a daily summary of hours worked in each shift.
   ![image](https://github.com/user-attachments/assets/6048c19d-cfc4-4e1b-8202-58a25c368a27)
 
+# Milestone 
+- 3 Week we want to start with the basic game and end at week 9.
+- End the Tasklist at Week 4.
+- To finish the hole IPERKA at Week 8.
+- Finish the basic game at Week 9 and make the documentation about it how we did it.
+- Make the powerpoint prasentation for the game
