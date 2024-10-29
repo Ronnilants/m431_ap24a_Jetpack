@@ -20,13 +20,13 @@ Features:
 
 ### Source Code
 
-- [JetpackController]
-- [ObstacleController]
-- [ObstacleSpawner]
+- [JetpackController](https://github.com/Ronnilants/m431_ap24a_Jetpack/blob/main/02_Jetpack/Assets/scripts/JetpackController.cs)
+- [ObstacleController](https://github.com/Ronnilants/m431_ap24a_Jetpack/blob/main/02_Jetpack/Assets/scripts/ObstacleController.cs)
+- [ObstacleSpawner](https://github.com/Ronnilants/m431_ap24a_Jetpack/blob/main/02_Jetpack/Assets/scripts/ObstacleSpawner.cs)
 
-### Download
+### Video 
 
-- The product can be downloaded here
+- Video of the product
 
 # Documentation
 
